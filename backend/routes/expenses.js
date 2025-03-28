@@ -1,6 +1,6 @@
 const express = require('express');
-const Expense = require('../models/Expense');
-const classifyExpense = require('../ml_model');
+const Expense = require('../models/db/Expense');
+const classifyExpense = require('../models/ml/ml_model');
 
 const router = express.Router();
 

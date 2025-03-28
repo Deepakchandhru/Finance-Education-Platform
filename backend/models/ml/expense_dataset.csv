@@ -1,0 +1,1001 @@
+Date,Category,Amount,Description
+2024-11-30,Food & Dining,198.3,Coffee
+2024-06-04,Healthcare,177.28,Therapy
+2024-08-16,Healthcare,69.74,Pharmacy
+2025-02-18,Transportation,180.91,Uber
+2025-01-10,Entertainment,70.78,Gaming
+2024-05-26,Food & Dining,104.26,Takeout
+2024-12-18,Shopping,172.67,Gadgets
+2024-06-16,Shopping,100.86,Accessories
+2024-11-26,Entertainment,90.34,Movie
+2024-09-17,Shopping,88.8,Clothing
+2024-12-05,Entertainment,92.86,Books
+2024-11-21,Entertainment,152.2,Movie
+2024-11-09,Entertainment,70.83,Concert
+2024-05-14,Food & Dining,105.08,Fast food
+2024-05-09,Food & Dining,120.67,Coffee
+2024-08-24,Transportation,28.02,Bus fare
+2024-05-20,Shopping,49.41,Electronics
+2024-05-22,Entertainment,112.72,Movie
+2024-09-27,Transportation,30.52,Gas
+2024-11-16,Shopping,194.13,Home decor
+2024-06-26,Food & Dining,134.18,Groceries
+2024-12-09,Shopping,186.41,Accessories
+2025-02-21,Transportation,134.7,Bus fare
+2024-08-14,Shopping,74.18,Gadgets
+2024-12-04,Transportation,50.24,Bus fare
+2024-03-31,Healthcare,98.26,Dental care
+2024-05-09,Shopping,77.35,Home decor
+2025-01-02,Shopping,92.88,Gadgets
+2024-11-05,Transportation,153.37,Parking
+2024-06-05,Transportation,92.19,Uber
+2024-04-11,Food & Dining,30.65,Fast food
+2024-07-13,Transportation,20.8,Parking
+2024-05-11,Healthcare,77.13,Therapy
+2024-09-03,Food & Dining,191.05,Restaurant
+2024-10-13,Food & Dining,134.52,Takeout
+2024-10-11,Healthcare,106.07,Dental care
+2024-10-31,Shopping,19.73,Electronics
+2024-11-11,Food & Dining,116.29,Fast food
+2025-01-15,Transportation,50.13,Train ticket
+2024-07-25,Transportation,87.57,Gas
+2024-09-25,Shopping,162.05,Home decor
+2024-10-05,Shopping,88.18,Clothing
+2025-01-14,Shopping,91.01,Clothing
+2024-11-20,Entertainment,40.37,Movie
+2024-10-14,Entertainment,145.15,Movie
+2024-04-07,Entertainment,78.92,Movie
+2024-07-04,Entertainment,194.45,Movie
+2025-01-02,Entertainment,55.29,Movie
+2025-01-15,Healthcare,106.89,Therapy
+2024-10-30,Food & Dining,193.82,Restaurant
+2025-02-08,Healthcare,138.6,Pharmacy
+2024-11-30,Entertainment,107.81,Movie
+2024-12-23,Food & Dining,133.94,Restaurant
+2024-06-27,Food & Dining,90.84,Restaurant
+2024-04-20,Food & Dining,118.7,Fast food
+2024-09-04,Food & Dining,29.85,Groceries
+2024-09-06,Shopping,175.68,Clothing
+2025-03-27,Transportation,131.56,Train ticket
+2024-05-06,Entertainment,102.67,Books
+2025-03-27,Shopping,21.55,Gadgets
+2024-10-02,Healthcare,81.62,Gym membership
+2025-03-08,Healthcare,44.43,Pharmacy
+2024-11-15,Entertainment,179.75,Concert
+2025-03-04,Healthcare,136.6,Pharmacy
+2024-06-25,Transportation,140.35,Train ticket
+2024-12-24,Transportation,139.16,Bus fare
+2025-03-03,Entertainment,81.59,Books
+2024-04-20,Healthcare,104.74,Doctor visit
+2024-11-30,Entertainment,77.12,Streaming service
+2024-08-31,Healthcare,64.62,Dental care
+2024-07-09,Food & Dining,41.4,Takeout
+2025-03-16,Healthcare,180.8,Dental care
+2024-05-19,Entertainment,173.76,Books
+2024-05-26,Entertainment,55.03,Books
+2025-02-15,Entertainment,66.35,Concert
+2024-12-05,Shopping,169.89,Gadgets
+2025-01-28,Transportation,67.41,Parking
+2024-05-25,Food & Dining,44.88,Takeout
+2024-06-03,Healthcare,135.97,Pharmacy
+2024-09-23,Food & Dining,180.02,Coffee
+2025-03-18,Transportation,16.35,Uber
+2025-03-06,Food & Dining,106.37,Restaurant
+2024-05-26,Healthcare,191.58,Gym membership
+2024-06-10,Healthcare,98.86,Therapy
+2024-11-09,Shopping,46.62,Home decor
+2024-06-30,Healthcare,120.43,Pharmacy
+2024-06-03,Transportation,101.43,Train ticket
+2024-10-21,Food & Dining,7.07,Coffee
+2024-04-07,Transportation,126.35,Gas
+2024-08-23,Entertainment,26.98,Concert
+2025-01-07,Healthcare,22.37,Doctor visit
+2024-06-22,Entertainment,39.11,Movie
+2024-09-06,Food & Dining,24.87,Fast food
+2024-04-19,Healthcare,32.96,Dental care
+2024-06-17,Shopping,42.74,Home decor
+2024-12-21,Shopping,133.87,Clothing
+2025-03-01,Entertainment,149.41,Movie
+2024-07-04,Transportation,28.66,Uber
+2024-09-05,Entertainment,84.04,Books
+2025-01-26,Transportation,183.01,Train ticket
+2025-01-13,Healthcare,83.34,Pharmacy
+2024-04-27,Shopping,114.42,Home decor
+2024-05-28,Transportation,66.17,Uber
+2024-12-01,Shopping,127.61,Clothing
+2024-08-14,Healthcare,122.45,Therapy
+2025-01-18,Transportation,179.34,Bus fare
+2024-06-30,Healthcare,91.19,Dental care
+2024-09-19,Transportation,74.08,Parking
+2024-06-01,Healthcare,67.7,Doctor visit
+2024-10-01,Entertainment,167.8,Streaming service
+2025-01-11,Shopping,137.18,Electronics
+2024-08-01,Healthcare,174.01,Therapy
+2024-10-22,Healthcare,63.41,Pharmacy
+2024-08-03,Healthcare,188.86,Pharmacy
+2024-06-04,Shopping,193.59,Clothing
+2024-09-22,Food & Dining,90.34,Fast food
+2025-01-09,Entertainment,164.47,Streaming service
+2024-06-01,Shopping,62.29,Home decor
+2024-07-05,Food & Dining,77.37,Fast food
+2024-08-16,Transportation,23.16,Train ticket
+2025-01-06,Healthcare,60.81,Pharmacy
+2024-11-10,Entertainment,148.78,Gaming
+2024-10-03,Entertainment,177.36,Gaming
+2024-05-04,Entertainment,105.87,Concert
+2024-11-02,Shopping,189.1,Clothing
+2024-12-29,Shopping,45.45,Home decor
+2024-07-28,Entertainment,192.59,Streaming service
+2024-12-08,Transportation,100.07,Uber
+2024-12-27,Healthcare,134.54,Doctor visit
+2024-09-17,Entertainment,191.27,Concert
+2024-12-09,Food & Dining,192.72,Restaurant
+2025-02-22,Healthcare,137.97,Therapy
+2024-06-21,Healthcare,19.52,Gym membership
+2024-09-30,Food & Dining,25.75,Coffee
+2024-11-13,Food & Dining,99.79,Takeout
+2024-11-27,Entertainment,131.99,Gaming
+2024-10-01,Food & Dining,88.64,Coffee
+2024-08-09,Transportation,139.73,Parking
+2024-06-06,Shopping,62.75,Electronics
+2024-10-25,Food & Dining,193.48,Takeout
+2025-03-12,Shopping,105.0,Home decor
+2024-10-03,Food & Dining,186.02,Fast food
+2025-03-04,Transportation,109.24,Train ticket
+2024-06-08,Food & Dining,167.48,Restaurant
+2025-01-23,Entertainment,77.39,Movie
+2024-06-17,Entertainment,123.13,Movie
+2024-04-26,Entertainment,14.23,Gaming
+2024-05-01,Healthcare,188.85,Therapy
+2024-07-18,Entertainment,169.8,Movie
+2024-05-04,Entertainment,123.54,Movie
+2025-01-24,Transportation,57.81,Bus fare
+2025-03-03,Healthcare,151.39,Doctor visit
+2024-04-19,Shopping,99.22,Accessories
+2024-10-02,Healthcare,5.36,Gym membership
+2024-04-30,Food & Dining,183.56,Coffee
+2024-06-07,Food & Dining,143.93,Coffee
+2024-10-26,Food & Dining,196.78,Coffee
+2024-05-29,Transportation,42.48,Parking
+2024-10-02,Entertainment,192.39,Gaming
+2024-07-18,Healthcare,111.25,Pharmacy
+2025-02-17,Transportation,109.03,Bus fare
+2025-02-17,Transportation,128.21,Train ticket
+2024-07-23,Food & Dining,168.81,Fast food
+2024-09-04,Entertainment,77.35,Movie
+2024-11-07,Transportation,100.74,Parking
+2024-12-28,Transportation,58.2,Train ticket
+2024-08-27,Healthcare,141.53,Doctor visit
+2024-06-20,Healthcare,148.0,Therapy
+2024-06-05,Entertainment,181.43,Books
+2024-06-26,Healthcare,11.97,Dental care
+2024-04-05,Shopping,126.06,Home decor
+2024-12-24,Healthcare,57.96,Doctor visit
+2024-11-12,Food & Dining,183.84,Takeout
+2024-08-04,Healthcare,129.76,Therapy
+2024-10-03,Healthcare,199.84,Doctor visit
+2024-04-19,Entertainment,93.87,Gaming
+2024-12-20,Shopping,176.9,Gadgets
+2024-05-14,Transportation,112.19,Gas
+2024-04-16,Entertainment,79.71,Streaming service
+2024-06-21,Food & Dining,148.02,Takeout
+2024-10-09,Shopping,153.02,Clothing
+2024-12-17,Shopping,157.67,Electronics
+2024-07-20,Shopping,179.09,Home decor
+2025-02-01,Shopping,145.9,Home decor
+2025-02-17,Transportation,74.87,Train ticket
+2024-08-05,Entertainment,185.68,Concert
+2025-01-05,Entertainment,52.82,Books
+2025-03-03,Healthcare,166.21,Pharmacy
+2024-09-01,Food & Dining,152.04,Takeout
+2024-07-08,Healthcare,77.07,Gym membership
+2024-09-10,Entertainment,199.98,Books
+2024-06-23,Entertainment,49.96,Books
+2024-04-22,Food & Dining,189.35,Coffee
+2024-08-13,Healthcare,41.55,Pharmacy
+2025-01-04,Food & Dining,91.8,Restaurant
+2024-10-31,Transportation,52.49,Bus fare
+2024-04-20,Food & Dining,90.06,Fast food
+2024-11-17,Transportation,110.79,Train ticket
+2024-05-08,Entertainment,183.98,Gaming
+2024-09-03,Shopping,129.28,Clothing
+2025-02-07,Shopping,140.35,Accessories
+2024-06-08,Transportation,171.89,Bus fare
+2025-03-19,Entertainment,194.1,Books
+2024-09-08,Food & Dining,104.86,Coffee
+2025-02-10,Food & Dining,151.63,Fast food
+2024-04-28,Shopping,56.31,Electronics
+2024-07-30,Entertainment,122.81,Gaming
+2024-04-21,Entertainment,192.45,Concert
+2024-10-06,Healthcare,5.87,Doctor visit
+2024-11-10,Food & Dining,5.54,Coffee
+2024-04-22,Transportation,129.07,Uber
+2024-05-08,Entertainment,12.98,Gaming
+2024-12-01,Food & Dining,45.21,Coffee
+2025-03-09,Entertainment,154.71,Books
+2024-04-20,Healthcare,181.09,Dental care
+2024-05-22,Food & Dining,187.21,Groceries
+2024-09-08,Entertainment,121.1,Books
+2025-02-09,Shopping,97.93,Gadgets
+2024-12-13,Healthcare,163.06,Gym membership
+2024-09-29,Healthcare,163.77,Gym membership
+2025-02-25,Shopping,75.14,Electronics
+2024-09-28,Transportation,103.3,Train ticket
+2024-07-04,Transportation,155.89,Parking
+2024-11-25,Healthcare,185.19,Pharmacy
+2024-08-03,Food & Dining,154.59,Coffee
+2024-07-09,Shopping,108.69,Accessories
+2024-05-10,Entertainment,75.21,Concert
+2024-09-25,Food & Dining,97.35,Coffee
+2024-12-15,Food & Dining,51.9,Groceries
+2024-04-08,Transportation,20.13,Bus fare
+2024-05-16,Shopping,194.97,Home decor
+2024-04-29,Shopping,139.0,Gadgets
+2024-12-30,Entertainment,80.76,Concert
+2024-04-01,Healthcare,145.17,Gym membership
+2024-11-03,Healthcare,8.69,Gym membership
+2024-05-14,Shopping,99.56,Home decor
+2024-06-25,Shopping,43.49,Home decor
+2024-06-11,Food & Dining,106.36,Fast food
+2024-07-31,Entertainment,137.58,Movie
+2025-01-09,Food & Dining,94.83,Groceries
+2024-05-06,Healthcare,90.15,Pharmacy
+2024-09-05,Food & Dining,56.96,Fast food
+2024-04-15,Healthcare,132.42,Therapy
+2024-09-01,Healthcare,44.05,Gym membership
+2024-12-11,Shopping,191.26,Gadgets
+2024-05-09,Shopping,130.37,Electronics
+2024-04-26,Transportation,163.66,Train ticket
+2024-07-17,Entertainment,111.84,Books
+2024-12-09,Food & Dining,129.99,Takeout
+2024-11-24,Shopping,82.47,Clothing
+2025-03-25,Food & Dining,163.2,Takeout
+2024-09-12,Transportation,14.75,Parking
+2024-08-04,Entertainment,195.65,Books
+2024-11-19,Transportation,124.04,Train ticket
+2024-09-20,Transportation,99.77,Train ticket
+2024-07-10,Entertainment,73.19,Movie
+2024-07-22,Shopping,111.51,Clothing
+2024-08-13,Shopping,98.84,Electronics
+2024-12-19,Shopping,147.28,Clothing
+2025-03-09,Healthcare,199.53,Therapy
+2024-10-12,Entertainment,118.61,Streaming service
+2024-09-19,Shopping,132.77,Clothing
+2024-05-31,Healthcare,6.41,Pharmacy
+2025-01-23,Entertainment,169.77,Movie
+2024-12-22,Healthcare,99.66,Pharmacy
+2024-10-19,Food & Dining,39.04,Fast food
+2025-01-01,Shopping,151.7,Electronics
+2024-11-30,Transportation,35.71,Uber
+2024-07-02,Transportation,150.32,Parking
+2024-08-25,Food & Dining,157.07,Fast food
+2024-09-29,Food & Dining,110.64,Coffee
+2024-05-04,Food & Dining,94.57,Groceries
+2024-11-27,Shopping,26.87,Gadgets
+2024-10-13,Transportation,70.73,Parking
+2025-03-16,Transportation,189.92,Bus fare
+2024-11-23,Food & Dining,168.23,Groceries
+2024-09-09,Entertainment,61.27,Streaming service
+2024-06-17,Entertainment,84.42,Streaming service
+2024-08-11,Food & Dining,50.88,Restaurant
+2024-12-21,Shopping,125.36,Electronics
+2024-08-14,Shopping,94.7,Clothing
+2025-03-22,Healthcare,49.41,Pharmacy
+2025-02-10,Transportation,116.68,Parking
+2024-12-29,Shopping,141.94,Electronics
+2024-10-11,Transportation,77.59,Train ticket
+2025-03-12,Transportation,193.62,Uber
+2024-12-18,Food & Dining,115.69,Coffee
+2025-03-02,Food & Dining,148.79,Takeout
+2025-02-28,Entertainment,43.18,Books
+2024-06-15,Healthcare,115.13,Therapy
+2024-07-03,Healthcare,82.78,Therapy
+2024-09-28,Transportation,118.26,Uber
+2025-03-01,Transportation,132.24,Train ticket
+2024-03-30,Healthcare,172.0,Therapy
+2024-06-16,Healthcare,187.42,Gym membership
+2025-01-26,Shopping,189.39,Gadgets
+2024-06-01,Healthcare,46.44,Doctor visit
+2024-12-12,Transportation,11.15,Uber
+2025-01-31,Healthcare,45.34,Doctor visit
+2024-04-06,Entertainment,162.95,Books
+2025-02-11,Transportation,198.05,Gas
+2025-01-03,Transportation,54.8,Train ticket
+2024-04-12,Shopping,82.79,Clothing
+2024-12-03,Food & Dining,189.94,Coffee
+2025-02-09,Transportation,64.01,Uber
+2024-12-28,Healthcare,93.46,Dental care
+2024-10-22,Healthcare,10.39,Dental care
+2024-09-01,Food & Dining,94.75,Coffee
+2024-06-16,Entertainment,50.35,Movie
+2025-01-11,Entertainment,197.93,Books
+2024-12-01,Food & Dining,87.45,Groceries
+2025-02-02,Entertainment,98.25,Gaming
+2024-03-31,Transportation,136.99,Train ticket
+2024-10-08,Healthcare,35.55,Pharmacy
+2024-04-14,Shopping,59.75,Gadgets
+2025-02-04,Healthcare,65.74,Pharmacy
+2024-07-25,Food & Dining,197.43,Fast food
+2024-07-22,Entertainment,41.02,Gaming
+2024-10-17,Food & Dining,126.56,Fast food
+2024-12-07,Entertainment,198.02,Books
+2024-05-02,Transportation,143.66,Gas
+2024-08-07,Transportation,37.02,Bus fare
+2024-09-29,Shopping,82.3,Gadgets
+2024-09-16,Food & Dining,182.48,Groceries
+2024-06-30,Entertainment,179.5,Movie
+2025-03-09,Entertainment,9.39,Books
+2024-04-02,Food & Dining,156.49,Fast food
+2024-09-26,Food & Dining,122.4,Groceries
+2024-11-03,Entertainment,71.64,Streaming service
+2024-07-29,Transportation,24.01,Uber
+2024-08-16,Entertainment,121.97,Concert
+2025-02-02,Transportation,143.4,Gas
+2024-12-10,Entertainment,190.05,Books
+2024-11-23,Food & Dining,117.68,Coffee
+2024-03-30,Shopping,147.31,Clothing
+2024-08-27,Food & Dining,162.38,Coffee
+2025-03-27,Food & Dining,197.95,Fast food
+2024-09-21,Entertainment,49.08,Movie
+2024-07-13,Transportation,146.99,Uber
+2024-09-01,Entertainment,170.49,Books
+2024-04-08,Healthcare,166.65,Pharmacy
+2025-02-23,Transportation,139.46,Parking
+2025-01-06,Transportation,120.23,Gas
+2025-03-08,Shopping,35.89,Home decor
+2025-03-10,Shopping,129.66,Home decor
+2024-06-19,Transportation,143.63,Bus fare
+2024-10-26,Entertainment,144.94,Concert
+2024-11-24,Food & Dining,100.93,Takeout
+2024-12-20,Shopping,50.86,Electronics
+2024-12-21,Transportation,169.09,Train ticket
+2024-12-10,Entertainment,185.48,Books
+2025-02-06,Transportation,152.5,Uber
+2025-01-04,Shopping,156.27,Home decor
+2024-06-30,Shopping,22.5,Accessories
+2024-04-06,Entertainment,174.69,Gaming
+2024-09-06,Shopping,6.88,Clothing
+2024-11-11,Healthcare,161.2,Gym membership
+2025-01-12,Entertainment,71.3,Movie
+2024-10-21,Food & Dining,44.71,Restaurant
+2024-07-19,Healthcare,26.74,Pharmacy
+2025-03-14,Entertainment,182.15,Books
+2024-08-09,Shopping,5.33,Home decor
+2025-02-25,Shopping,59.61,Gadgets
+2024-09-25,Shopping,162.37,Accessories
+2025-01-10,Entertainment,82.62,Gaming
+2024-12-02,Transportation,54.16,Train ticket
+2024-12-28,Healthcare,44.95,Pharmacy
+2024-09-19,Entertainment,64.13,Gaming
+2024-07-24,Shopping,9.23,Accessories
+2025-02-13,Entertainment,16.13,Streaming service
+2024-05-14,Entertainment,98.92,Streaming service
+2024-06-29,Entertainment,134.57,Gaming
+2024-11-23,Healthcare,51.23,Pharmacy
+2024-11-01,Entertainment,94.36,Movie
+2025-02-24,Shopping,124.8,Electronics
+2024-09-07,Entertainment,147.24,Books
+2024-09-20,Food & Dining,140.03,Coffee
+2025-03-24,Entertainment,16.74,Movie
+2024-08-24,Entertainment,161.17,Concert
+2024-07-25,Healthcare,199.4,Therapy
+2024-09-30,Food & Dining,130.61,Groceries
+2024-04-11,Healthcare,155.98,Gym membership
+2025-01-22,Entertainment,183.44,Movie
+2025-02-22,Entertainment,11.96,Books
+2024-11-19,Shopping,126.16,Accessories
+2024-11-13,Entertainment,75.98,Gaming
+2025-01-23,Healthcare,85.15,Therapy
+2025-01-19,Entertainment,7.0,Concert
+2025-02-27,Food & Dining,39.56,Takeout
+2025-03-25,Healthcare,62.97,Doctor visit
+2024-11-06,Food & Dining,45.12,Restaurant
+2024-09-05,Entertainment,89.29,Streaming service
+2025-01-05,Entertainment,90.74,Gaming
+2025-02-28,Shopping,178.8,Electronics
+2024-04-10,Food & Dining,130.18,Groceries
+2024-04-24,Shopping,172.67,Accessories
+2024-06-11,Transportation,121.44,Uber
+2024-08-24,Healthcare,118.36,Therapy
+2024-06-09,Transportation,113.66,Bus fare
+2025-01-26,Entertainment,118.28,Concert
+2024-08-31,Food & Dining,165.25,Takeout
+2025-01-21,Entertainment,186.07,Movie
+2024-05-03,Shopping,139.99,Accessories
+2025-02-26,Healthcare,82.46,Dental care
+2024-10-10,Food & Dining,58.32,Restaurant
+2024-07-12,Transportation,137.44,Bus fare
+2025-01-11,Food & Dining,171.95,Coffee
+2024-12-20,Food & Dining,123.08,Coffee
+2025-02-01,Food & Dining,30.68,Takeout
+2024-11-19,Shopping,132.27,Clothing
+2024-04-10,Shopping,6.42,Electronics
+2024-10-15,Shopping,141.53,Home decor
+2024-11-06,Transportation,96.69,Bus fare
+2024-10-27,Food & Dining,199.03,Coffee
+2024-05-08,Food & Dining,150.24,Fast food
+2024-04-19,Healthcare,14.45,Dental care
+2024-05-03,Entertainment,123.71,Books
+2024-07-04,Entertainment,123.76,Movie
+2025-03-16,Entertainment,118.14,Concert
+2024-12-23,Food & Dining,109.41,Takeout
+2024-09-15,Entertainment,121.17,Books
+2024-04-08,Food & Dining,75.12,Takeout
+2024-12-04,Transportation,13.88,Parking
+2025-02-23,Entertainment,176.43,Concert
+2024-04-08,Food & Dining,87.73,Groceries
+2024-10-30,Transportation,35.58,Uber
+2024-11-09,Food & Dining,84.52,Restaurant
+2024-11-04,Healthcare,94.5,Gym membership
+2024-10-28,Entertainment,175.39,Movie
+2024-08-17,Healthcare,71.7,Gym membership
+2024-04-17,Healthcare,39.99,Dental care
+2024-09-24,Shopping,46.79,Clothing
+2024-10-07,Entertainment,113.58,Streaming service
+2024-10-31,Healthcare,41.87,Doctor visit
+2024-04-14,Shopping,87.56,Home decor
+2024-11-21,Entertainment,162.39,Books
+2024-04-28,Healthcare,97.51,Therapy
+2025-01-19,Healthcare,119.97,Gym membership
+2024-07-24,Transportation,26.27,Gas
+2025-03-18,Food & Dining,135.8,Coffee
+2024-11-09,Entertainment,49.19,Gaming
+2024-05-28,Entertainment,195.92,Gaming
+2024-07-30,Entertainment,123.99,Streaming service
+2024-07-31,Shopping,58.12,Accessories
+2024-07-23,Food & Dining,56.29,Restaurant
+2025-01-08,Entertainment,167.54,Gaming
+2024-06-04,Healthcare,102.98,Pharmacy
+2024-08-04,Shopping,124.45,Clothing
+2024-04-21,Shopping,168.0,Gadgets
+2025-03-13,Food & Dining,169.82,Coffee
+2024-06-03,Transportation,28.44,Gas
+2024-10-02,Shopping,100.95,Home decor
+2024-05-10,Shopping,136.89,Accessories
+2024-03-28,Food & Dining,136.28,Fast food
+2025-03-24,Food & Dining,23.89,Groceries
+2025-01-23,Transportation,119.13,Gas
+2025-02-11,Transportation,159.71,Bus fare
+2024-08-24,Food & Dining,35.67,Groceries
+2025-01-07,Healthcare,194.32,Dental care
+2024-05-03,Shopping,120.58,Accessories
+2025-03-11,Transportation,44.35,Train ticket
+2024-06-18,Food & Dining,151.09,Fast food
+2025-02-14,Transportation,22.04,Parking
+2024-04-18,Entertainment,55.19,Gaming
+2024-06-02,Shopping,160.25,Accessories
+2024-10-04,Transportation,90.16,Gas
+2024-06-27,Transportation,160.7,Bus fare
+2024-08-26,Entertainment,113.95,Concert
+2024-11-26,Entertainment,46.96,Movie
+2024-08-16,Entertainment,152.46,Movie
+2024-09-10,Healthcare,74.25,Doctor visit
+2024-10-06,Entertainment,125.82,Streaming service
+2024-12-11,Shopping,196.17,Gadgets
+2025-02-17,Healthcare,23.11,Therapy
+2025-02-10,Transportation,192.67,Parking
+2024-08-29,Transportation,151.39,Train ticket
+2024-11-16,Food & Dining,67.21,Coffee
+2024-05-25,Entertainment,18.27,Concert
+2024-08-31,Food & Dining,49.04,Fast food
+2024-07-21,Entertainment,57.57,Streaming service
+2024-09-05,Healthcare,127.76,Doctor visit
+2024-05-01,Food & Dining,135.09,Fast food
+2024-08-03,Transportation,32.16,Parking
+2024-05-13,Healthcare,46.11,Gym membership
+2025-02-01,Transportation,180.18,Parking
+2024-04-23,Shopping,65.28,Home decor
+2024-12-29,Food & Dining,180.48,Restaurant
+2025-02-20,Food & Dining,26.25,Coffee
+2024-04-17,Shopping,50.88,Electronics
+2024-09-06,Shopping,89.69,Home decor
+2025-03-12,Shopping,145.64,Electronics
+2024-05-18,Food & Dining,40.3,Restaurant
+2024-05-22,Food & Dining,114.0,Groceries
+2024-10-07,Shopping,176.86,Accessories
+2024-11-04,Transportation,150.05,Bus fare
+2024-11-03,Transportation,55.28,Gas
+2025-03-01,Transportation,198.2,Bus fare
+2024-11-29,Food & Dining,160.29,Coffee
+2024-08-18,Shopping,29.43,Electronics
+2024-09-24,Shopping,71.38,Electronics
+2025-02-25,Transportation,47.31,Gas
+2025-01-20,Food & Dining,122.34,Groceries
+2024-11-27,Healthcare,72.92,Therapy
+2024-08-11,Healthcare,102.97,Dental care
+2025-01-22,Entertainment,186.9,Streaming service
+2024-04-08,Food & Dining,117.03,Fast food
+2024-11-04,Food & Dining,114.59,Restaurant
+2024-04-27,Healthcare,139.57,Pharmacy
+2024-09-20,Entertainment,146.53,Streaming service
+2024-12-17,Transportation,9.82,Parking
+2024-09-22,Food & Dining,110.3,Restaurant
+2024-05-20,Shopping,152.42,Electronics
+2025-03-16,Healthcare,68.6,Doctor visit
+2024-11-16,Transportation,172.05,Bus fare
+2024-07-21,Entertainment,145.44,Books
+2024-09-01,Shopping,160.25,Accessories
+2024-11-16,Food & Dining,31.01,Fast food
+2024-10-31,Entertainment,61.45,Gaming
+2024-11-25,Entertainment,119.07,Streaming service
+2024-07-10,Food & Dining,116.8,Takeout
+2025-02-02,Transportation,117.99,Parking
+2024-04-22,Shopping,5.59,Accessories
+2024-12-07,Entertainment,20.38,Gaming
+2024-06-27,Transportation,106.33,Bus fare
+2024-07-04,Transportation,42.52,Train ticket
+2024-08-04,Food & Dining,63.02,Fast food
+2024-04-07,Shopping,104.07,Home decor
+2025-02-14,Transportation,137.49,Train ticket
+2024-07-21,Shopping,101.94,Accessories
+2025-01-14,Transportation,151.28,Gas
+2024-04-20,Shopping,28.3,Electronics
+2024-09-24,Transportation,182.2,Train ticket
+2024-11-15,Food & Dining,45.84,Restaurant
+2024-05-22,Transportation,175.98,Train ticket
+2024-11-14,Food & Dining,82.62,Takeout
+2024-09-28,Food & Dining,148.38,Coffee
+2024-11-24,Shopping,13.13,Accessories
+2024-08-20,Healthcare,164.23,Dental care
+2024-11-11,Shopping,29.16,Accessories
+2024-10-16,Entertainment,77.37,Streaming service
+2024-08-12,Transportation,190.76,Uber
+2024-05-02,Healthcare,131.18,Gym membership
+2025-01-22,Shopping,91.73,Gadgets
+2024-07-03,Healthcare,159.1,Dental care
+2024-06-04,Food & Dining,54.61,Takeout
+2024-10-05,Healthcare,156.08,Therapy
+2024-08-12,Transportation,54.37,Uber
+2024-08-13,Transportation,100.04,Gas
+2024-04-30,Shopping,40.98,Clothing
+2024-06-23,Healthcare,199.65,Pharmacy
+2024-05-19,Shopping,168.39,Accessories
+2025-01-02,Food & Dining,126.42,Coffee
+2025-02-13,Entertainment,169.32,Streaming service
+2025-03-17,Entertainment,59.02,Concert
+2025-03-11,Transportation,142.59,Gas
+2024-11-20,Healthcare,34.54,Therapy
+2025-01-02,Healthcare,109.41,Pharmacy
+2024-11-24,Food & Dining,185.92,Fast food
+2025-01-13,Healthcare,68.31,Therapy
+2024-09-26,Entertainment,55.1,Books
+2024-10-09,Shopping,100.99,Gadgets
+2025-01-16,Healthcare,181.12,Dental care
+2024-09-16,Shopping,44.56,Clothing
+2024-05-09,Transportation,175.75,Parking
+2024-06-28,Entertainment,47.24,Books
+2024-07-10,Entertainment,60.32,Streaming service
+2025-02-19,Healthcare,59.53,Pharmacy
+2024-05-02,Food & Dining,28.08,Fast food
+2024-12-15,Food & Dining,23.42,Coffee
+2024-08-01,Entertainment,188.56,Gaming
+2024-10-09,Entertainment,55.09,Streaming service
+2024-05-15,Shopping,43.41,Home decor
+2025-01-13,Transportation,177.58,Gas
+2025-02-03,Healthcare,163.72,Pharmacy
+2024-06-22,Entertainment,30.12,Movie
+2024-05-15,Entertainment,69.22,Streaming service
+2025-03-16,Shopping,46.67,Clothing
+2024-03-31,Transportation,180.13,Gas
+2024-07-07,Entertainment,79.98,Streaming service
+2024-03-29,Healthcare,89.11,Pharmacy
+2024-04-25,Transportation,104.85,Uber
+2024-04-15,Healthcare,36.9,Dental care
+2024-06-06,Transportation,78.99,Gas
+2024-08-01,Entertainment,105.13,Concert
+2025-03-07,Food & Dining,15.18,Restaurant
+2024-10-06,Transportation,181.53,Gas
+2025-01-11,Transportation,32.38,Gas
+2024-11-27,Transportation,26.54,Train ticket
+2024-07-02,Entertainment,73.34,Gaming
+2024-07-02,Entertainment,90.82,Movie
+2024-04-18,Food & Dining,119.51,Fast food
+2024-09-03,Food & Dining,34.01,Takeout
+2025-01-19,Shopping,37.1,Clothing
+2025-01-16,Food & Dining,85.6,Fast food
+2024-09-23,Entertainment,196.61,Movie
+2024-05-26,Transportation,67.99,Bus fare
+2024-10-28,Transportation,155.41,Train ticket
+2024-05-06,Food & Dining,176.97,Restaurant
+2024-11-14,Entertainment,170.53,Movie
+2024-06-27,Entertainment,135.26,Gaming
+2024-08-23,Healthcare,151.22,Pharmacy
+2024-08-17,Transportation,141.14,Train ticket
+2024-09-30,Shopping,52.73,Gadgets
+2025-03-22,Entertainment,32.81,Streaming service
+2024-12-13,Shopping,83.54,Clothing
+2025-03-20,Entertainment,182.7,Books
+2024-11-25,Entertainment,99.29,Concert
+2024-07-13,Entertainment,120.43,Gaming
+2025-03-22,Food & Dining,63.98,Fast food
+2024-10-09,Shopping,51.22,Clothing
+2024-07-03,Healthcare,148.96,Therapy
+2025-01-17,Shopping,41.09,Clothing
+2024-04-07,Shopping,77.83,Electronics
+2024-05-19,Entertainment,12.09,Concert
+2024-06-24,Shopping,187.06,Gadgets
+2024-07-23,Healthcare,117.79,Pharmacy
+2024-07-28,Shopping,144.42,Home decor
+2024-04-21,Entertainment,118.59,Books
+2024-04-22,Entertainment,163.59,Gaming
+2024-06-24,Healthcare,72.18,Gym membership
+2024-09-17,Shopping,13.5,Accessories
+2024-06-27,Transportation,147.05,Gas
+2024-11-02,Transportation,79.94,Train ticket
+2025-02-07,Healthcare,80.4,Doctor visit
+2024-06-13,Shopping,177.72,Electronics
+2024-04-09,Food & Dining,49.39,Groceries
+2024-08-01,Healthcare,46.0,Doctor visit
+2024-05-28,Shopping,166.66,Electronics
+2025-02-07,Transportation,197.52,Gas
+2024-09-22,Healthcare,116.98,Doctor visit
+2024-04-28,Shopping,21.75,Electronics
+2024-12-22,Transportation,154.27,Uber
+2024-08-23,Entertainment,50.2,Gaming
+2024-10-11,Transportation,12.48,Bus fare
+2024-04-19,Food & Dining,132.02,Takeout
+2025-02-26,Transportation,43.96,Gas
+2024-08-21,Food & Dining,38.64,Fast food
+2024-12-07,Healthcare,188.44,Therapy
+2024-06-08,Food & Dining,127.7,Restaurant
+2024-12-08,Transportation,81.05,Bus fare
+2025-01-15,Transportation,193.04,Bus fare
+2024-09-04,Food & Dining,169.29,Restaurant
+2024-11-10,Entertainment,36.71,Streaming service
+2024-11-19,Healthcare,188.21,Dental care
+2025-03-18,Food & Dining,70.13,Restaurant
+2025-03-21,Shopping,20.86,Gadgets
+2024-06-07,Entertainment,164.06,Gaming
+2024-04-21,Healthcare,161.06,Gym membership
+2024-04-30,Shopping,152.2,Accessories
+2024-11-08,Transportation,118.13,Parking
+2024-07-19,Shopping,136.49,Electronics
+2024-05-31,Entertainment,157.17,Streaming service
+2025-02-12,Transportation,40.85,Gas
+2024-07-13,Entertainment,126.75,Concert
+2024-05-15,Transportation,87.41,Bus fare
+2024-10-23,Healthcare,106.8,Doctor visit
+2024-03-29,Transportation,48.73,Gas
+2025-01-09,Shopping,164.09,Accessories
+2024-07-11,Entertainment,178.49,Books
+2024-12-03,Transportation,65.31,Uber
+2024-10-19,Transportation,44.95,Gas
+2024-08-29,Healthcare,75.39,Gym membership
+2024-06-03,Shopping,172.46,Home decor
+2024-06-11,Entertainment,136.26,Streaming service
+2024-07-03,Transportation,145.42,Gas
+2024-07-28,Healthcare,193.48,Gym membership
+2024-12-23,Healthcare,190.73,Doctor visit
+2024-05-04,Entertainment,91.63,Concert
+2024-12-06,Healthcare,158.36,Pharmacy
+2024-04-01,Shopping,132.93,Accessories
+2024-07-05,Food & Dining,142.37,Groceries
+2025-02-25,Entertainment,109.74,Streaming service
+2025-02-16,Entertainment,193.95,Books
+2024-09-17,Healthcare,46.9,Doctor visit
+2024-05-16,Healthcare,159.68,Dental care
+2024-11-08,Shopping,89.66,Clothing
+2024-10-13,Entertainment,97.42,Movie
+2024-04-01,Healthcare,150.0,Gym membership
+2024-08-11,Transportation,74.87,Train ticket
+2024-10-04,Transportation,71.68,Train ticket
+2025-03-17,Food & Dining,44.9,Takeout
+2024-06-13,Healthcare,183.45,Gym membership
+2024-12-30,Shopping,181.31,Home decor
+2024-08-14,Food & Dining,14.98,Fast food
+2024-05-28,Entertainment,84.83,Books
+2025-03-13,Entertainment,154.28,Movie
+2024-06-16,Entertainment,159.84,Concert
+2024-08-26,Shopping,150.05,Electronics
+2025-01-13,Shopping,46.66,Electronics
+2024-10-28,Transportation,99.85,Bus fare
+2024-09-14,Healthcare,122.03,Dental care
+2024-10-22,Food & Dining,115.92,Coffee
+2024-09-23,Entertainment,150.51,Concert
+2024-04-12,Food & Dining,42.07,Restaurant
+2025-03-12,Transportation,19.29,Uber
+2024-06-11,Transportation,8.12,Parking
+2024-12-21,Entertainment,105.75,Concert
+2024-07-04,Transportation,164.92,Bus fare
+2024-06-22,Shopping,198.1,Accessories
+2024-06-01,Food & Dining,73.05,Groceries
+2024-08-08,Healthcare,80.6,Dental care
+2024-04-23,Food & Dining,164.82,Groceries
+2024-04-09,Entertainment,69.87,Movie
+2024-09-22,Healthcare,121.76,Dental care
+2024-07-04,Healthcare,93.33,Doctor visit
+2024-07-21,Transportation,57.67,Parking
+2024-12-17,Shopping,141.44,Accessories
+2024-12-10,Entertainment,36.27,Gaming
+2024-06-23,Transportation,107.94,Parking
+2024-06-12,Shopping,42.8,Gadgets
+2024-08-27,Entertainment,152.57,Concert
+2024-04-19,Shopping,109.22,Accessories
+2025-03-02,Transportation,65.55,Train ticket
+2025-02-10,Transportation,102.2,Gas
+2024-07-17,Healthcare,133.49,Gym membership
+2025-03-13,Healthcare,182.39,Gym membership
+2024-06-27,Healthcare,145.85,Gym membership
+2024-06-18,Food & Dining,119.9,Restaurant
+2024-04-17,Shopping,88.94,Electronics
+2024-12-08,Food & Dining,77.65,Takeout
+2024-07-11,Healthcare,183.01,Therapy
+2025-02-21,Shopping,164.86,Electronics
+2024-06-11,Transportation,68.5,Parking
+2025-02-13,Entertainment,135.69,Books
+2024-09-30,Transportation,174.79,Bus fare
+2024-07-29,Transportation,72.34,Train ticket
+2024-05-04,Entertainment,19.45,Streaming service
+2024-10-26,Shopping,74.58,Home decor
+2024-12-27,Healthcare,117.76,Pharmacy
+2024-04-28,Healthcare,152.06,Gym membership
+2024-08-25,Entertainment,76.59,Books
+2024-12-27,Transportation,54.85,Bus fare
+2024-05-27,Shopping,14.82,Home decor
+2024-10-06,Food & Dining,187.24,Fast food
+2025-02-15,Food & Dining,169.16,Fast food
+2024-06-02,Food & Dining,17.6,Fast food
+2024-05-07,Shopping,64.88,Gadgets
+2024-11-19,Food & Dining,49.54,Takeout
+2024-07-06,Healthcare,186.98,Pharmacy
+2025-01-21,Food & Dining,149.33,Groceries
+2024-05-16,Healthcare,114.51,Pharmacy
+2025-02-05,Transportation,32.25,Train ticket
+2024-12-13,Healthcare,115.05,Pharmacy
+2024-04-02,Food & Dining,117.26,Restaurant
+2024-05-28,Entertainment,12.46,Gaming
+2024-05-04,Entertainment,101.09,Movie
+2024-11-19,Entertainment,15.44,Books
+2024-09-11,Entertainment,67.94,Movie
+2024-05-12,Shopping,48.15,Home decor
+2024-09-05,Food & Dining,69.72,Coffee
+2025-01-29,Healthcare,192.57,Gym membership
+2024-12-08,Healthcare,40.74,Dental care
+2024-09-16,Food & Dining,78.35,Coffee
+2025-01-26,Entertainment,91.37,Concert
+2024-10-25,Transportation,33.79,Gas
+2024-04-07,Entertainment,114.35,Movie
+2024-12-07,Entertainment,45.3,Concert
+2024-09-01,Shopping,23.72,Clothing
+2024-10-27,Food & Dining,78.92,Takeout
+2024-10-31,Entertainment,91.41,Streaming service
+2025-01-06,Shopping,76.42,Gadgets
+2025-02-16,Shopping,159.37,Accessories
+2024-09-04,Healthcare,177.93,Doctor visit
+2024-05-27,Entertainment,196.54,Gaming
+2024-10-25,Food & Dining,175.34,Groceries
+2024-08-20,Transportation,13.05,Bus fare
+2024-08-23,Transportation,49.76,Parking
+2025-01-15,Entertainment,18.74,Gaming
+2025-03-27,Entertainment,70.93,Movie
+2025-01-02,Entertainment,120.42,Books
+2024-04-11,Transportation,88.23,Gas
+2024-04-26,Shopping,86.13,Accessories
+2024-06-11,Entertainment,91.56,Books
+2024-05-27,Transportation,178.38,Bus fare
+2025-03-04,Transportation,49.59,Uber
+2025-03-10,Transportation,141.05,Parking
+2024-04-30,Healthcare,113.5,Gym membership
+2024-10-24,Transportation,137.88,Uber
+2024-09-24,Healthcare,15.99,Pharmacy
+2025-01-23,Food & Dining,54.59,Restaurant
+2025-02-05,Entertainment,148.18,Movie
+2024-06-26,Healthcare,118.94,Pharmacy
+2024-07-26,Entertainment,197.01,Streaming service
+2025-01-10,Healthcare,147.3,Therapy
+2024-04-08,Transportation,176.47,Train ticket
+2024-06-13,Food & Dining,128.34,Takeout
+2024-08-22,Entertainment,118.84,Movie
+2024-04-04,Entertainment,191.93,Streaming service
+2024-04-04,Food & Dining,185.86,Groceries
+2024-05-06,Food & Dining,35.91,Groceries
+2024-09-29,Healthcare,192.18,Doctor visit
+2024-10-25,Healthcare,10.83,Dental care
+2024-11-27,Transportation,45.28,Bus fare
+2024-10-23,Healthcare,86.65,Therapy
+2024-11-20,Entertainment,134.59,Gaming
+2025-03-14,Food & Dining,92.85,Groceries
+2024-05-31,Food & Dining,167.64,Groceries
+2024-12-11,Shopping,6.21,Electronics
+2024-11-04,Entertainment,43.38,Concert
+2024-05-22,Healthcare,154.94,Doctor visit
+2024-09-15,Food & Dining,116.42,Groceries
+2025-03-13,Transportation,44.78,Train ticket
+2024-07-10,Food & Dining,110.65,Groceries
+2024-06-07,Healthcare,34.02,Pharmacy
+2024-04-06,Healthcare,15.84,Pharmacy
+2024-06-25,Food & Dining,138.57,Restaurant
+2024-12-15,Healthcare,189.73,Dental care
+2024-05-20,Healthcare,94.59,Therapy
+2024-05-04,Entertainment,182.54,Streaming service
+2024-08-25,Entertainment,120.71,Books
+2025-03-26,Entertainment,78.87,Books
+2024-09-02,Food & Dining,88.07,Fast food
+2024-03-31,Shopping,128.78,Clothing
+2024-07-10,Food & Dining,190.72,Takeout
+2024-08-31,Entertainment,94.8,Movie
+2024-09-07,Transportation,159.85,Parking
+2024-08-22,Entertainment,73.43,Books
+2024-11-05,Transportation,21.8,Parking
+2024-04-12,Transportation,48.85,Train ticket
+2024-06-10,Food & Dining,47.9,Groceries
+2024-07-19,Entertainment,115.52,Movie
+2024-03-29,Entertainment,70.99,Concert
+2024-11-28,Food & Dining,111.3,Groceries
+2024-12-28,Shopping,18.62,Electronics
+2024-07-23,Healthcare,37.8,Gym membership
+2025-01-31,Transportation,175.26,Train ticket
+2024-09-18,Entertainment,194.6,Books
+2024-09-05,Food & Dining,88.81,Groceries
+2024-09-18,Shopping,192.65,Home decor
+2024-07-13,Healthcare,70.05,Dental care
+2024-09-30,Food & Dining,145.61,Groceries
+2024-05-24,Healthcare,58.81,Doctor visit
+2025-01-10,Entertainment,111.47,Movie
+2024-07-28,Food & Dining,127.29,Restaurant
+2025-01-27,Transportation,188.29,Train ticket
+2025-01-10,Food & Dining,123.38,Takeout
+2024-04-15,Entertainment,70.4,Streaming service
+2024-12-26,Food & Dining,35.9,Fast food
+2024-03-27,Transportation,70.19,Uber
+2024-08-31,Transportation,30.51,Parking
+2024-06-15,Shopping,76.29,Electronics
+2025-01-01,Transportation,138.81,Gas
+2024-10-16,Transportation,44.76,Bus fare
+2024-07-08,Shopping,54.1,Electronics
+2024-05-13,Shopping,52.16,Electronics
+2024-07-25,Food & Dining,140.41,Restaurant
+2024-09-05,Healthcare,69.62,Doctor visit
+2024-09-02,Transportation,76.12,Parking
+2024-04-11,Transportation,128.87,Train ticket
+2024-06-23,Food & Dining,100.53,Restaurant
+2024-06-22,Shopping,59.41,Clothing
+2024-10-10,Healthcare,128.23,Dental care
+2024-12-12,Shopping,66.99,Clothing
+2024-07-28,Shopping,30.05,Accessories
+2024-06-30,Shopping,131.6,Electronics
+2024-12-08,Transportation,89.82,Uber
+2024-11-04,Healthcare,173.55,Dental care
+2024-07-07,Transportation,109.82,Gas
+2024-05-24,Healthcare,23.87,Therapy
+2024-11-12,Food & Dining,98.78,Takeout
+2025-01-15,Entertainment,195.04,Books
+2024-10-14,Food & Dining,127.13,Fast food
+2024-11-12,Shopping,128.57,Clothing
+2025-02-26,Transportation,11.93,Uber
+2024-08-06,Healthcare,45.63,Dental care
+2024-06-04,Shopping,80.28,Home decor
+2024-12-04,Healthcare,103.91,Pharmacy
+2024-05-10,Healthcare,183.19,Gym membership
+2024-06-24,Transportation,84.0,Gas
+2024-06-27,Shopping,194.23,Electronics
+2025-03-18,Entertainment,45.92,Concert
+2024-04-29,Healthcare,19.47,Gym membership
+2024-12-22,Food & Dining,32.59,Restaurant
+2024-09-24,Entertainment,156.21,Streaming service
+2024-05-01,Healthcare,8.48,Dental care
+2025-03-12,Shopping,62.51,Accessories
+2024-08-14,Healthcare,188.74,Pharmacy
+2024-10-25,Entertainment,183.02,Gaming
+2024-06-08,Shopping,53.68,Electronics
+2024-04-12,Healthcare,162.57,Doctor visit
+2025-03-07,Transportation,73.07,Train ticket
+2024-07-12,Shopping,109.85,Electronics
+2025-01-29,Healthcare,136.45,Gym membership
+2024-11-10,Healthcare,93.14,Gym membership
+2024-07-22,Healthcare,29.66,Pharmacy
+2024-06-16,Shopping,168.5,Clothing
+2024-05-26,Food & Dining,115.1,Restaurant
+2024-12-04,Healthcare,111.5,Doctor visit
+2024-08-04,Food & Dining,131.58,Restaurant
+2025-01-30,Healthcare,71.23,Therapy
+2025-01-22,Shopping,189.69,Electronics
+2024-07-10,Entertainment,178.63,Concert
+2025-02-20,Healthcare,116.94,Doctor visit
+2024-08-10,Transportation,79.83,Train ticket
+2025-02-26,Food & Dining,14.38,Coffee
+2024-10-19,Transportation,16.62,Gas
+2025-03-03,Healthcare,98.4,Gym membership
+2024-05-11,Transportation,133.04,Uber
+2024-07-10,Entertainment,132.78,Streaming service
+2025-02-20,Transportation,179.43,Train ticket
+2024-10-21,Entertainment,190.44,Concert
+2024-10-10,Transportation,182.09,Train ticket
+2024-07-26,Entertainment,137.46,Gaming
+2025-02-21,Healthcare,52.77,Gym membership
+2024-08-13,Healthcare,177.85,Gym membership
+2025-02-07,Entertainment,96.82,Movie
+2024-11-02,Food & Dining,79.78,Coffee
+2024-10-02,Entertainment,186.97,Streaming service
+2024-09-06,Entertainment,199.89,Gaming
+2024-06-17,Entertainment,25.63,Streaming service
+2025-03-27,Healthcare,140.92,Therapy
+2025-03-21,Entertainment,178.23,Concert
+2024-10-27,Transportation,111.8,Bus fare
+2024-10-08,Food & Dining,137.81,Restaurant
+2024-05-30,Shopping,188.22,Electronics
+2024-06-03,Food & Dining,19.33,Groceries
+2024-06-15,Healthcare,38.24,Therapy
+2024-09-02,Healthcare,56.94,Pharmacy
+2025-03-14,Shopping,73.07,Accessories
+2025-02-01,Food & Dining,55.44,Coffee
+2024-12-06,Food & Dining,92.11,Coffee
+2024-07-24,Food & Dining,169.79,Fast food
+2024-06-14,Healthcare,45.07,Dental care
+2024-04-22,Entertainment,69.68,Streaming service
+2025-03-20,Transportation,13.27,Uber
+2024-08-19,Food & Dining,115.37,Restaurant
+2024-10-25,Healthcare,140.07,Therapy
+2024-11-06,Healthcare,168.38,Therapy
+2024-08-28,Healthcare,89.81,Therapy
+2024-09-13,Food & Dining,147.16,Restaurant
+2024-04-20,Healthcare,77.86,Dental care
+2024-08-12,Transportation,10.31,Gas
+2024-04-27,Transportation,35.32,Gas
+2024-06-27,Transportation,123.08,Parking
+2025-03-08,Food & Dining,123.88,Fast food
+2024-09-23,Shopping,84.98,Clothing
+2025-02-23,Entertainment,90.73,Concert
+2024-09-29,Entertainment,146.33,Movie
+2024-09-02,Entertainment,115.7,Streaming service
+2025-03-26,Entertainment,129.1,Movie
+2024-09-25,Shopping,46.71,Accessories
+2024-05-23,Transportation,83.68,Train ticket
+2024-04-29,Entertainment,54.91,Books
+2024-11-14,Transportation,89.27,Bus fare
+2024-05-29,Healthcare,12.95,Dental care
+2024-04-14,Entertainment,116.97,Concert
+2025-01-10,Healthcare,62.16,Pharmacy
+2025-03-01,Transportation,61.31,Gas
+2024-09-01,Entertainment,26.64,Books
+2024-11-27,Shopping,146.41,Clothing
+2024-03-30,Shopping,70.68,Home decor
+2024-04-13,Food & Dining,15.45,Groceries
+2024-04-05,Transportation,39.05,Uber
+2024-09-01,Entertainment,47.26,Gaming
+2024-05-28,Food & Dining,94.14,Takeout
+2024-10-28,Healthcare,181.92,Gym membership
+2024-10-21,Entertainment,106.61,Books
+2024-12-26,Shopping,132.96,Home decor
+2025-02-17,Transportation,78.82,Uber
+2025-01-01,Entertainment,109.84,Streaming service
+2025-03-20,Healthcare,85.17,Therapy
+2024-11-24,Healthcare,57.89,Pharmacy
+2024-11-24,Healthcare,151.39,Dental care
+2024-12-09,Healthcare,81.7,Gym membership
+2024-04-22,Food & Dining,8.26,Restaurant
+2024-07-10,Entertainment,25.67,Concert
+2025-03-24,Entertainment,139.73,Movie
+2024-07-22,Food & Dining,119.25,Coffee
+2024-12-23,Healthcare,59.63,Pharmacy
+2024-04-27,Transportation,26.41,Train ticket
+2024-08-06,Entertainment,75.95,Streaming service
+2024-10-18,Transportation,47.19,Gas
+2024-11-07,Transportation,19.15,Parking
+2025-02-05,Food & Dining,130.2,Groceries
+2024-10-10,Food & Dining,96.57,Fast food
+2024-10-01,Shopping,142.0,Home decor
+2024-10-17,Transportation,56.48,Parking
+2024-06-10,Transportation,92.55,Gas
+2024-11-13,Shopping,9.89,Gadgets
+2024-08-14,Healthcare,84.33,Pharmacy
+2025-03-08,Food & Dining,193.59,Takeout
+2024-12-10,Shopping,113.7,Electronics
+2024-04-07,Transportation,193.44,Uber
+2024-07-23,Healthcare,72.99,Therapy
+2024-05-16,Food & Dining,111.68,Fast food
+2025-01-22,Transportation,172.37,Bus fare
+2024-06-02,Food & Dining,15.38,Takeout
+2024-12-21,Shopping,166.54,Gadgets
+2024-06-09,Healthcare,109.12,Gym membership
+2024-07-02,Entertainment,118.96,Gaming
+2024-12-27,Shopping,141.19,Clothing
+2024-05-11,Entertainment,88.05,Streaming service
+2024-04-19,Food & Dining,196.63,Coffee
+2024-04-15,Food & Dining,19.63,Fast food
+2025-03-05,Food & Dining,61.26,Takeout
+2025-02-11,Entertainment,98.38,Books
+2024-11-13,Food & Dining,127.23,Coffee
+2024-04-19,Shopping,149.34,Electronics
+2024-11-19,Healthcare,163.65,Doctor visit
+2024-05-25,Food & Dining,116.98,Takeout
